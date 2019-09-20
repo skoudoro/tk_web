@@ -1,1 +1,5 @@
 /* Add here all your CSS customizations */
+
+.rev_slider li.slide-overlay .slotholder:after {
+    opacity: 0.75;
+}
